@@ -1,5 +1,4 @@
 name: Fisrt Workflow
-
 on: workflow_dispatch
 jobs:
   first-job:
